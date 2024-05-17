@@ -1,12 +1,7 @@
-
 package igu;
 
 import java.awt.*;
 
-/**
- *
- * @author MegaTecnologia
- */
 public class Pantalla extends javax.swing.JFrame {
     String lectura = "";
 
