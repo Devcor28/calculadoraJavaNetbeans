@@ -1,5 +1,7 @@
 package igu;
 
+//Ruben Cornejo
+
 import java.awt.*;
 
 public class Pantalla extends javax.swing.JFrame {
